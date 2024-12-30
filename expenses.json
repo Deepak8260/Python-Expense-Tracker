@@ -1,0 +1,12 @@
+[
+    {
+        "category": "Food",
+        "amount": 100.0,
+        "date": "30-12-2024"
+    },
+    {
+        "category": "Movie",
+        "amount": 250.0,
+        "date": "30-12-2024"
+    }
+]
